@@ -1,0 +1,8 @@
+{
+  "name": "New Year Sparkler",
+  "description": "A magical AR video recorder for New Year's Eve. Draw with light trails using your finger and create fireworks!",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
